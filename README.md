@@ -125,37 +125,24 @@ The `main` branch is protected with the following rules:
 
 # images
 
-## Pull Requests
+## github 
 
-### Feature-A Pull Request
-![Pull Request](images/pull-request.png)
----
+![github](images/gihub.png)
 
-## Merge Conflict Resolution
+## gitlab
 
-![Merge Conflict Resolution](images/conflict.png)
+![gitlab](images/gitpvtrepo.png)
 
-![Conflict Resolved](images/conflict-reslove.png)
+## README.md file 
+
+![ README.md](images/README.md.png)
 
 ---
 
 ## Forked Repository
 
-![Forked Repository](images/forked.png)
+![Forked Repository](images/fork.png)
 
----
-
-## Repository Mirroring Configuration
-
-![Repository Mirroring](images/mirroring.png)
-
----
-
-## Branch Protection Rules
-
-![Branch Protection Rules](images/branch-protection.png)
-
-![Protection Rules Configuration](images/rules.png)
 
 ---
 
