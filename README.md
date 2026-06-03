@@ -125,23 +125,9 @@ The `main` branch is protected with the following rules:
 
 # images
 
-## github 
+## practical assignment test
 
-![github](images/gihub.png)
-
-## gitlab
-
-![gitlab](images/gitpvtrepo.png)
-
-## README.md file 
-
-![ README.md](images/README.md.png)
-
----
-
-## Forked Repository
-
-![Forked Repository](images/fork.png)
+![practical test](images/git-practical-assignment)
 
 
 ---
