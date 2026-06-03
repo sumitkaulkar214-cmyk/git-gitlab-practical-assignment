@@ -127,7 +127,7 @@ The `main` branch is protected with the following rules:
 
 ## practical assignment test
 
-![practical test](images/git-practical-assignment)
+![practical test](images/git-practical-assignment.png)
 
 
 ---
